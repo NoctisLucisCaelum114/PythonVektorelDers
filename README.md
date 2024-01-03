@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hi my namei is çağrı im from turkey/samsun im learning software
 
 <!--
 **NoctisLucisCaelum114/NoctisLucisCaelum114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
