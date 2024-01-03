@@ -1,0 +1,12 @@
+adi = input("Bir ad gir: ")
+soyAdi = input("soyAdi : ") 
+no = input("Nosu:")
+
+print ("Demek adın",adi,", memnun oldum",adi,soyAdi ")
+print (soyAdi)
+print (no)
+print ()
+print (adi,end="")
+print (soyAdi)
+print (no)
+print ("1+3")
