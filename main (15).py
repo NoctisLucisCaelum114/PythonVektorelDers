@@ -10,8 +10,8 @@ def anamenu():
   print("║  2-Oyunlar
   print("║  3-Çizimler
   print("║  4-
-  print("║
-  print("║    Seçiminiz nedir?     
+  print("║                         ║
+  print("║    Seçiminiz nedir?     ║
          ╚═════════════════════════╝
   secim = input
   if secim == "1" :
