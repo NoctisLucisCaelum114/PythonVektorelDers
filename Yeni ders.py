@@ -4,3 +4,4 @@ while a < 10:
     print(a, "Çağrı")
  ##   if a % 2 == 0 : continue
  ##   if a == 101:break
+    Githubta gözükmesi gereken kısım
