@@ -6,5 +6,5 @@ print(meyveler)
 meyveler.insert(3,"karpuz")
 print(meyveler)
 
-alincaklar.pop()
+alincaklar.pop()w
 print(alinacaklar)

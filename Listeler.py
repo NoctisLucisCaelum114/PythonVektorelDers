@@ -14,4 +14,4 @@ print("----------------")
 for a in meyveler:
     print(a)
 
-    meyveler.pop(1)
+    meyveler.pop(0)
