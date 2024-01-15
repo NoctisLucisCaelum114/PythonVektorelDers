@@ -14,16 +14,15 @@ def anamenu():
   print("║    Seçiminiz nedir?     ║")
   print("╚═════════════════════════╝")
   secim = input
-  if secim == "1" :
+if secim == "1" :
   ilerihesapmakinesi.hesaplamalar.hmmenu()
   anamenu()
-  secim == 2
+elif secim == "2":
   oyunlar.oyun.oyunmenu()
   anamenu()
-  else:
-  anamenu()
+else:
+    anamenu()
   # 201 ╔ # 205 ═ # 187 ╗ # 186 ║ # 200 ╚
   # 188 ╝
 
-anamenu()
 ##hesapmakinesi ()
