@@ -15,7 +15,7 @@ def anamenu():
   print("╚═════════════════════════╝")
   secim = input
   if "secim" == "1" : .........
-  hesapmakinesi.hesaplamalar.hmmenu
+  hesaplamalar.hesaplamalar.hmmenu
   anamenu()
   secim == 2
   oyunlar.oyun.oyunmenu()
