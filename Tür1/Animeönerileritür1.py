@@ -1,19 +1,18 @@
-import Tür1.Animeönerileritür1
 
-def animemenu():
+
+def animeisekai():
     print("\033[31m")
     print("╔═════════════════════════╗")
     print("║\033[31m                 ║")
     print("║                         ║")
-    print("║  1-Doğaüstü güçler      ║")
-    print("║  2-Aksiyon              ║")
-    print("║  3-Dram                 ║")
-    print("║  4-Mecha                ║")
-    print("║  5-İsekai               ║")
+    print("║  1-Re zero              ║")
+    print("║  2-No game no life      ║")
+    print("║  3-Youjo senki          ║")
+    print("║  4-Kenja no mago        ║")
+    print("║  5-Yoru no ku ni        ║")
     print("║    Seçiminiz nedir?     ║")
     print("╚═════════════════════════╝")
 
     secim = input("Seçiminiz: ")
-
-    if secim == "5":
-       Tür1.Animeönerileritür1.animeisekai() # beni duyuyor musun?
+    ##hesapmakinesi ()
+    #print("╔"+"="*20+"╗"
