@@ -2,6 +2,7 @@ import Konsolprojem.Konsol
 import oyunlar.oyun
 import animeönerileri.Animeönerileri
 import CAGRI_PROJE
+import Hesapmakinesi
 
 def anamenu():
     print("\033[31m")

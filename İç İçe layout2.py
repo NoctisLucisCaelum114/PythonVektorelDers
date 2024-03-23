@@ -16,4 +16,4 @@ class AnaPencere(QMainWindow):
         yatayicerik1.addLayout(dikeyicerik3)
         yatayicerik1.addLayout(dikeyicerik4)
 
-        pencere =
+    
